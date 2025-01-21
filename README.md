@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gavin</h1>
+<h1 align="center">Hi 👋, I'm Gavin Pereira</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakalaka696&label=Profile%20views&color=0e75b6&style=flat" alt="shakalaka696" /> </p>
-
-- 🔭 I’m currently working on [Food-Ordering App](https://github.com/shakalaka696/Food-Ordering-App)
+- 🔭 I’m currently working on [NetflixGpt](https://github.com/shakalaka696/Netflix-App)
 
 - 🌱 I’m currently learning **React,NodeJs,NextJs**
 
